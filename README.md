@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/huitinglim68/LimHuiTing/main/Pictures/IMG_0089%20(2).JPG)
+![alt text](.JPG)
 
 <!-- Add your details -->
 
